@@ -1,0 +1,1 @@
+# A-Generic-Approach-to-Plant-leaf-diseases-Classification-and-Verification
